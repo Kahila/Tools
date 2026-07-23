@@ -1,8 +1,6 @@
 
 > SMB Share Grepper connects to multiple SMB hosts, identifies accessible shares, and recursively searches readable files for content matching configured regular-expression patterns.
 
-<img width="914" height="433" alt="Pasted image 20260723151458" src="https://github.com/user-attachments/assets/89abd1c4-31ec-4898-8ef6-6e03cb511d55" />
-
 
 ## Features
 
