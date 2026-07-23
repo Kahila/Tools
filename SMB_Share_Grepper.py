@@ -1,16 +1,9 @@
-import socket
-from turtle import write
 from impacket.smbconnection import SMBConnection, SessionError
 from io import BytesIO
-from colorama import Fore, Style, init
 import re
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from ipaddress import ip_network
-import itertools
 import threading
-import time
-import sys
-
 from rich.progress import Progress, SpinnerColumn, TextColumn
 
 username = ""
